@@ -1,4 +1,0 @@
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumber\bin\Debug\ComplexNumber.dll
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumber\bin\Debug\ComplexNumber.pdb
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumber\obj\Debug\ComplexNumber.dll
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumber\obj\Debug\ComplexNumber.pdb

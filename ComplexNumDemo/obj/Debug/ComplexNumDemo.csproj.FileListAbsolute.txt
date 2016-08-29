@@ -1,8 +1,0 @@
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\bin\Debug\ComplexNumDemo.exe.config
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\bin\Debug\ComplexNumDemo.exe
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\bin\Debug\ComplexNumDemo.pdb
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\bin\Debug\ComplexNumber.dll
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\bin\Debug\ComplexNumber.pdb
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\obj\Debug\ComplexNumDemo.csprojResolveAssemblyReference.cache
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\obj\Debug\ComplexNumDemo.exe
-c:\users\alexa\documents\visual studio 2015\Projects\ComplexNumberSolution\ComplexNumDemo\obj\Debug\ComplexNumDemo.pdb
