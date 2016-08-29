@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumber", "ComplexNumber\ComplexNumber.csproj", "{F2A3B3F1-2C91-4520-BE39-66E0AAAC7AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumDemo", "ComplexNumDemo\ComplexNumDemo.csproj", "{07480FE6-28A9-4D30-84DD-653CC3DF266F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumberTests", "ComplexNumberTests\ComplexNumberTests.csproj", "{AF084238-F27F-4BE4-9CDF-9D5FE2BCB11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A3B3F1-2C91-4520-BE39-66E0AAAC7AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A3B3F1-2C91-4520-BE39-66E0AAAC7AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A3B3F1-2C91-4520-BE39-66E0AAAC7AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A3B3F1-2C91-4520-BE39-66E0AAAC7AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07480FE6-28A9-4D30-84DD-653CC3DF266F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07480FE6-28A9-4D30-84DD-653CC3DF266F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07480FE6-28A9-4D30-84DD-653CC3DF266F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07480FE6-28A9-4D30-84DD-653CC3DF266F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF084238-F27F-4BE4-9CDF-9D5FE2BCB11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF084238-F27F-4BE4-9CDF-9D5FE2BCB11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF084238-F27F-4BE4-9CDF-9D5FE2BCB11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF084238-F27F-4BE4-9CDF-9D5FE2BCB11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestCases>
+  <TestCase id="1" name="(1+2i) + (2+3i)" execute="True">
+    <argument real="1" imaginary="2" />
+    <argument real="2" imaginary="3" />    
+    <result real="3" imaginary="5" />
+  </TestCase>
+  <TestCase id="2" name="0 + (2+3i)" execute="True">
+    <argument real="0" imaginary="0" />
+    <argument real="2" imaginary="3" />    
+    <result real="2" imaginary="3" />
+  </TestCase>
+  <TestCase id="3" name="(1+2i) + (2+3i)" execute="False">
+    <argument real="1" imaginary="2" />
+    <argument real="2" imaginary="3" />
+    <result real="3" imaginary="5" />
+  </TestCase>
+</TestCases>
